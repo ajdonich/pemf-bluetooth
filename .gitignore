@@ -1,3 +1,31 @@
+.DS_Store
+.vscode/
+
+# STMCubeIDE 
+STM32CubeIDE/
+Middlewares/
+Utilities/
+Drivers/
+Debug/
+Core/Startup
+Core/Inc/*
+Core/Src/hw_*
+Core/Src/stm32*
+Core/Src/sys*
+Core/Src/standby*
+STM32_WPAN/Target/hw_*
+STM32_WPAN/App/template_*
+STM32_WPAN/App/tl*
+STM32_WPAN/App/ble_*
+STM32_WPAN/App/app_*
+
+*Debug.launch
+*_FLASH.ld
+.cproject
+.mxproject
+.project
+.settings/
+
 # Prerequisites
 *.d
 
